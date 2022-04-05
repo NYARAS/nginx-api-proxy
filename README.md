@@ -1,8 +1,10 @@
 # Recipe App API Proxy
 
-NGINX Proxy app for our recipe app deployment
+NGINX Proxy for Django API app deployment
 
 ## Usage
+
+Proxy is used to server static files
 
 ### Environment Variables
 
